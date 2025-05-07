@@ -1,0 +1,6 @@
+aws:
+  region: ap-south-1
+  s3:
+    bucket-name: gkcare-s3-bucket
+    access-key: AKsdrstdrtsdSP2
+    secret-key: yuAYna1bsdfgsdfgsdfgsdf53kak
