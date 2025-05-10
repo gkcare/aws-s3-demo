@@ -37,8 +37,8 @@ Add the following to your `application.yaml`:
 
 ```yaml
 aws:
+  region: your-aws-region
   s3:
     bucket-name: your-bucket-name
-    region: your-aws-region
     access-key: your-access-key
     secret-key: your-secret-key
